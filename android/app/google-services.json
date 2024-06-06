@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "448818468600",
+    "project_id": "storage-robot",
+    "storage_bucket": "storage-robot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448818468600:android:dd0294ee0d90e693f64d0d",
+        "android_client_info": {
+          "package_name": "com.example.storage_robot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT_Oqbb-weqDpaBMMl98Xw_NFvR8dgOho"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

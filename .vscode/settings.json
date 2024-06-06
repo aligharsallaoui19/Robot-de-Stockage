@@ -1,0 +1,9 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.19.3",
+  "cSpell.ignoreWords": [
+    "cupertino"
+  ],
+  "cSpell.words": [
+    "Firestore"
+  ]
+}
